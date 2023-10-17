@@ -1,0 +1,93 @@
+.header {
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+background-color: white;
+}
+
+.left-section {
+    display: flex;
+    align-items: center;
+}
+
+.l1 {
+    height: 24px;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.l2 {
+    height: 24px;
+}
+
+.middle-section {
+flex: 1;
+margin-left: 70px;
+margin-right: 35px;
+max-width: 500px;
+display: flex;
+align-items: center;
+
+}
+
+.search {
+    flex: 1;
+    height: 34px;
+    padding-left: 10px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(197, 193, 193);
+    border-radius: 2px;
+    box-shadow: inset 1px 2px 5px rgb(0,0, 0, .05);
+}
+.m3 {
+height: 40px;
+width: 60px;
+}
+.voice {
+    height: 25px;
+    margin-top: 4px;
+}
+.m41 {
+    height: 40px;
+    width: 60px;
+    border: none;
+    border-radius: 20px;
+    
+    }
+    .m4 {
+        height: 24px;
+        margin-top: 4px;
+        border-radius: 20px;
+    
+    }
+.right-section {
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.r4 {
+    height: 24px;
+    
+    }
+    .r5 {
+        height: 24px;
+        
+        }
+        .r6 {
+            height: 24px;
+            
+            }
+            .ratul {
+                height: 32px;
+                border-radius: 16px;
+                
+                }

@@ -1,0 +1,41 @@
+.q {
+    width: 100%;
+ }
+ .search{
+    display: block;
+}
+.video-title{
+    margin-top: 0;
+   font-size: 14px;
+   font-weight: bold;
+   line-height: 20px;
+margin-bottom: 12px;
+}
+
+.channel-pic{
+    display: inline-block;
+    width: 50px;
+    vertical-align: top; 
+   
+   
+}
+
+.p-p{
+    width: 50px;
+    border-radius: 40px;
+}
+.thumnel-row{
+    margin-bottom: 12px;
+ 
+}
+
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 14px;
+}
+.video-time {
+background-color: black;
+color: white;
+}
